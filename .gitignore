@@ -1,0 +1,11 @@
+Debug/**
+.clang-format
+.o
+.log
+.includecache
+.settings
+.cproject
+.gdbinit
+.project
+.settings/**
+core
