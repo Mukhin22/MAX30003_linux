@@ -3,9 +3,6 @@
  *
  * \brief This file is a linux userspace driver header for MAX300003.c
  *
- * \copyrights (C) 2021 Alnicko Development OU. All rights reserved.
- *
- *  Created on: Jun 25, 2021
  */
 #ifndef INC_MAX30003_H_
 #define INC_MAX30003_H_

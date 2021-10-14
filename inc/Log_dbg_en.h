@@ -1,8 +1,5 @@
 /**
  * \file Log_dbg_en.h
- * \copyrights (C) 2021 Alnicko Development OU. All rights reserved.
- *
- *  Created on: jul 2, 2021
  */
 
 #ifndef INC_LOG_DBG_EN_H_

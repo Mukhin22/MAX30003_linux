@@ -1,10 +1,3 @@
-/**
-* @copyright (C) 2018 brezzl. GmbH. All rights reserved.
-*
-* @file vPrintf.c
-* @author Yarik Vlasenko
-* @date 20 December 2018
-*/
 
 #include "Log_dbg.h"
 
